@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jQeuryCracking", "jQeuryCracking\jQeuryCracking.csproj", "{FDF825D2-E6FB-42FB-BF1F-5E1551B6AA0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF825D2-E6FB-42FB-BF1F-5E1551B6AA0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF825D2-E6FB-42FB-BF1F-5E1551B6AA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF825D2-E6FB-42FB-BF1F-5E1551B6AA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF825D2-E6FB-42FB-BF1F-5E1551B6AA0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
