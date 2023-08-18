@@ -5,7 +5,7 @@ resources:
 - repo: self
 
 variables:  
-  IMAGE_NAME: tarunrathorejdp/web-app-jquery
+  IMAGE_NAME: tarunrathorejdp/dotnt-jquery
   CONTAINERAPPS_APP: web-app-jquery
   CONTAINERAPPS_ENVIRONMENT: aca-environment
   RESOURCE_GROUP: rg-containerapps-azure-pipelines
