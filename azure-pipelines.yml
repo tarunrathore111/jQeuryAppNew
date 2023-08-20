@@ -25,7 +25,7 @@ stages:
       displayName: Build an image
       inputs:
         command: build
-        dockerfile: '**/jQueryCrack/Dockerfile'
+        dockerfile: '**/jQeuryCracking/Dockerfile'
         repository: $(IMAGE_NAME)
         tags: |
           $(TAG)
