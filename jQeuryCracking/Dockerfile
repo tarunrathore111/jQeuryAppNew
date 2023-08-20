@@ -15,4 +15,4 @@ WORKDIR /app
 COPY --from=build-env /app/out .
 EXPOSE 3500
 ENV ASPNETCORE_URLS=http://+:3500
-ENTRYPOINT ["dotnet", "albumapi_csharp.dll"]
+ENTRYPOINT ["dotnet", "jQeuryCracking.dll"]
